@@ -14,6 +14,11 @@ This project uses YOLOv8 and OpenCV to detect and track beluga whale behavior fr
 - pandas
 - Roboflow (for dataset labeling)
 
+## 📸 Sample Detection
+
+![Sample Detection](sample_detection.png)
+
+
 ## 📦 Installation
 
 ```bash
